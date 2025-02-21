@@ -1,0 +1,20 @@
+{
+    "require": {
+        "colshrapnel/safemysql": "^1.1",
+        "symfony/dotenv": "v6.4.16",
+        "ext-curl": "*",
+        "ext-readline": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Danielyan\\Parus\\": "",
+            "Danielyan\\Parus\\App\\": "app/",
+            "Danielyan\\Parus\\App\\Data\\": "app/data/",
+            "Danielyan\\Parus\\App\\Enums\\": "app/enums/",
+            "Danielyan\\Parus\\App\\Models\\": "app/models/",
+            "Danielyan\\Parus\\App\\Network\\": "app/network/",
+            "Danielyan\\Parus\\App\\Repositories\\": "app/repositories/",
+            "Danielyan\\Parus\\App\\Services\\": "app/services"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "categories": ,
+  "geom": {
+    "features": [
+      {
+        "geometry": {
+          "coordinates": ,
+          "crs": {
+            "properties": {
+              "name": "EPSG:"
+            },
+            "type": "name"
+          },
+          "type": "Polygon"
+        },
+        "properties": {},
+        "type": "Feature"
+      }
+    ],
+    "type": "FeatureCollection"
+  }
+}
